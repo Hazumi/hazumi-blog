@@ -14,7 +14,7 @@ Empathy maps ordinarily encompass data from a single subject, but they can also 
 # Prerequisites and Preparation
 After conducting qualitative research through methods such as user interviews, ethnographic field studies, or diary studies, you should now have sufficient user data to begin creating empathy maps. Make sure to clearly define the goals you hope to achieve and the scope in which you are working. You should first have every member of your team read through the research on their own. Additionally, provide adequate contextual information into your users' situation to help your colleagues empathize with them.
 
-Although you can create digital empathy maps through digital services such as Miro's Online Whiteboard, they are better done in person whenever possible. To create an empathy map in person, you will need to prepare the following items:
+Although you can create digital empathy maps through digital services such as Miro's Online Whiteboard, they are better done in person whenever possible. To create an empathy map in person, you will need to prepare the following:
 - Research data
 - A large whiteboard
 - Sticky notes
