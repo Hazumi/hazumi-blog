@@ -1,17 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@300&display=swap');
+
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
-
+  // border-top: 5px solid $grey-color-dark;
+  // border-bottom: 2px solid #ddd;
+  background-color: $text-color;
+  // min-height: $spacing-unit * 1.865;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  @include relative-font-size(1.625);
+  font-family: 'Spectral SC', serif;
+  // @include relative-font-size(1.625);
+  @include relative-font-size(1.6);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -20,7 +24,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $background-color;
   }
 }
 
@@ -37,7 +41,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $background-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -107,6 +111,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
+  background-color: lighten($grey-color-light, 8%);
   padding: $spacing-unit 0;
 }
 
@@ -119,6 +124,11 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+}
+
+.copyright {
+  text-align: center;
+  color: $grey-color;
 }
 
 .footer-col-wrapper {
@@ -230,11 +240,11 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(1.3);
+    @include relative-font-size(1.2);
     font-weight: 400;
     color: $grey-color-dark;
     @include media-query($on-laptop) {
-      @include relative-font-size(1.3);
+      @include relative-font-size(1.2);
     }
   }
 

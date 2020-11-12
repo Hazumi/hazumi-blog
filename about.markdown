@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Nick, and I'm a 31-year-old technology enthusiast currently living in Wilmington, North Carolina. I write about user experience, user interface, interaction design, web development, and psychology. My interest in technology instantly began when I obtained my first computer in my early teens. I started coding my own website within a few years of being introduced to the internet, and my interest has only grown since. I am passionate about using creative, innovative solutions to make the internet more enjoyable and efficient for everybody.
