@@ -8,7 +8,7 @@ categories: ux design
 # What is an Empathy Map?
 An empathy map is a visual and often collaborative exercise used to synthesize qualitative data gathered from the user research phase of the design thinking process. Empathy maps can give us a way to categorize the findings of users' attitudes and behaviors into four subsetted quadrants (Says, Thinks, Does, and Feels). Empathy maps can systematize our discoveries into a decipherable form for not only us but our team as well. This organized approach gives us a more holistic view of our users' problems and needs in a fast and digestible way. However, this technique does not undermine the usage of personas.
 
-#### Single vs Multiple Subjects
+## Single vs Multiple Subjects
 Empathy maps ordinarily encompass data from a single subject, but they can also reflect an assortment of multiple users when the users exhibit similar behaviors. Aggregate empathy mapping can bring out common themes or patterns among grouped segments.
 
 # Prerequisites and Preparation
