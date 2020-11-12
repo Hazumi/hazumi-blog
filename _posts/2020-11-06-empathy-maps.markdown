@@ -55,23 +55,14 @@ Expressions of cognitive dissonance are to be expected and may surprisingly yiel
 # Conclusion
 Your new insights can help guide you to ideate and innovate solutions for your design problems. Organizing your data this way increases readability which may uncover weaknesses or gaps in your research and helps you better understand what drives your users' behaviors.
 
-<!---
-notes
+<br>
 
+## References
+*Empathy Map – Why and How to Use It*<br>
+[https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it](https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it "Empathy Map – Why and How to Use It")
 
+*Empathy Mapping: The First Step in Design Thinking*<br>
+[https://www.nngroup.com/articles/empathy-mapping/](https://www.nngroup.com/articles/empathy-mapping/ "Empathy Mapping: The First Step in Design Thinking")
 
-
-
-### References
-Empathy Map – Why and How to Use It
-https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it
-
-Empathy Mapping: The First Step in Design Thinking
-https://www.nngroup.com/articles/empathy-mapping/
-
-10 Tips to Develop Better Empathy Maps
-https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/
-
-Treehouse - Design thinking – the practice of considering a user’s experience throughout the process of creating and improving a product or service.
-
--->
+*10 Tips to Develop Better Empathy Maps*<br>
+[https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/](https://xd.adobe.com/ideas/process/user-research/10-tips-develop-better-empathy-maps/ "10 Tips to Develop Better Empathy Maps")
