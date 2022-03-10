@@ -18,6 +18,7 @@ $brand-color:      #333 !default;
 
 
 $grey-color:       #777 !default;
+$grey-color-lighten: lighten($grey-color, 15%) !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 // $grey-color-dark:  darken($grey-color, 10%) !default;
 $grey-color-dark:  #333 !default;
