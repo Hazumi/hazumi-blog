@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empathy Maps"
+title:  "Empathy Mapping"
 date:   2020-11-06 9:21:12 -0500
 categories: ux design
 ---
